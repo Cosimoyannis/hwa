@@ -10,7 +10,9 @@
 
 <div id="wholeComponent">
 
-    <img src="public/bild.jpeg" alt="bild">
+    <img src="public/bild.jpeg" alt="bild" />
+
+
 
 </div>
 
